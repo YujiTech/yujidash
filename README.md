@@ -2,7 +2,7 @@
 # 📊 YujiDash - React & Syncfusion
 
 ## Overview
-YujiDash is a data-driven interface for managing e-commerce operations. Built with **React** and **Syncfusion**, it provides a clean, organized way to visualize data through charts, tables, and more. This project showcases my ability to create dynamic dashboards, relevant to Amana’s need for a DeFi yield aggregator dashboard.
+YujiDash Shop is a data-driven interface for managing e-commerce operations. Built with **React** and **Syncfusion**, it provides a clean, organized way to visualize data through charts, tables, and more. This project showcases my ability to create dynamic dashboards, relevant to Amana’s need for a DeFi yield aggregator dashboard.
 
 **[Live Demo](https://shopit-admin-dashboard.vercel.app/)**
 
